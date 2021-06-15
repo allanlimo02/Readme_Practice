@@ -25,7 +25,7 @@ Technologies Used
 * HTML
 * CSS
 * Git
-Support and contact details  
+Support and contact details 
 ==========================
 For any assistance reach us via email [Allan](mailto:allanlimo02@gmail.com) or [Melvin](mailto:melvin.omega@student.moringaschool.com)
 
