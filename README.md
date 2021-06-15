@@ -20,8 +20,8 @@ If you have the required tools:
 
 Creat a directory where you want to clone to.
 Run 'git clone https://github.com/allanlimo02/readme_practice.git'
+
 Technologies Used
-----------------
 * HTML
 * CSS
 * Git
